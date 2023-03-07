@@ -140,7 +140,7 @@ WARNINGS = [
     "-Wdeprecated-enum-float-conversion",
     "-Wdeprecated-increment-bool",
     "-Wdeprecated-register",
-    "-Wdeprecated-this-capture",
+    #"-Wdeprecated-this-capture",
     "-Wdeprecated-volatile",
     "-Wdeprecated-writable-strings",
     "-Wc++98-compat-extra-semi",
